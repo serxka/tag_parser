@@ -1,0 +1,4 @@
+comment = 'tag parser, lexemes by comma'
+default_version = '0.1.0'
+module_pathname = '$libdir/tag_parser'
+relocatable = true

@@ -1,0 +1,9 @@
+log/
+output_iso/
+regression.diffs
+regression.out
+results/
+tag_parser.o
+tag_parser.so
+tmp_check/
+tmp_check_iso/
